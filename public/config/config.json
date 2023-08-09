@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x87df289B4165cCec11F3B25058b2b12b15076e8d",
+  "SCAN_LINK": "https://scan.pulsechain.com/token/0x87df289B4165cCec11F3B25058b2b12b15076e8d",
+  "NETWORK": {
+    "NAME": "PulseChain",
+    "SYMBOL": "PLS",
+    "ID": 369
+  },
+  "NFT_NAME": "Pulse Stars",
+  "SYMBOL": "PS",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 160000000000000000000000,
+  "DISPLAY_COST": 160000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Soon",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
