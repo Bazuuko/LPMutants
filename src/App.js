@@ -245,8 +245,7 @@ const Timer = ({ deadline = new Date().toString() }) => {
 
   const handleALL = () => {
     window.open(
-      'https://www.starslaunchpad.net',
-      '_blank' // <- This is what makes it open in a new window.
+      'https://www.starslaunchpad.net'
     );
   };
 
